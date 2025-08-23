@@ -11,7 +11,7 @@ PC1 ----- SW1 ====== SW2 ----- PC2
 
 
 
-==== represents two Gigabit Ethernet links bundled into Port-Channel 1
+==== represents three fast Ethernet links bundled into Port-Channel 1
 
 
 ---
